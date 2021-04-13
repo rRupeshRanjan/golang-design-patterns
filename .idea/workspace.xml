@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="026c59ba-f796-4021-aebe-63c28ba1a032" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:\Go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1r6xpk6zZ7FHhYcQy01HUMduVtd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="goland.project.structure" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Rupesh\Desktop\workspace\golang\design-patterns" />
+      <recent name="C:\Users\Rupesh\Desktop\workspace\golang\design-patterns\src\creational\singleton" />
+      <recent name="C:\Users\Rupesh\Desktop\workspace\golang\design-patterns\test" />
+      <recent name="C:\Users\Rupesh\Desktop\workspace\golang\design-patterns\src" />
+      <recent name="C:\Users\Rupesh\Desktop\workspace\golang\design-patterns\creational" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestBuilderPattern in design-patterns/creational/builder">
+    <configuration name="TestBuilderPattern in design-patterns/creational/builder" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golang-design-patterns" />
+      <working_directory value="$PROJECT_DIR$/creational/builder" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="design-patterns/creational/builder" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestBuilderPattern\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetBookInstance in singleton_test.go (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golang-design-patterns" />
+      <working_directory value="$PROJECT_DIR$/creational/singleton" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/creational/singleton/singleton_test.go" />
+      <pattern value="^\QTestGetBookInstance\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetBookInstance in singleton_test.go" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="golang-design-patterns" />
+      <working_directory value="$PROJECT_DIR$/creational/singleton" />
+      <framework value="gotest" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/creational/singleton/singleton_test.go" />
+      <pattern value="^\QTestGetBookInstance\E$" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Go Test.TestGetBookInstance in singleton_test.go" />
+      <item itemvalue="Go Test.TestGetBookInstance in singleton_test.go (1)" />
+      <item itemvalue="Go Test.TestBuilderPattern in design-patterns/creational/builder" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestBuilderPattern in design-patterns/creational/builder" />
+        <item itemvalue="Go Test.TestGetBookInstance in singleton_test.go" />
+        <item itemvalue="Go Test.TestGetBookInstance in singleton_test.go (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" width="1092" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1618311719560">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" width="1092" height="739" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618311719560" />
+    <state x="853" y="379" key="EnvironmentVariablesDialog" timestamp="1618312874809">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="853" y="379" key="EnvironmentVariablesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1618312874809" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1618317903980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1618317903980" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1618317903980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1618317903980" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1618317903979">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1618317903979" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1618317903980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1618317903980" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1618312973034">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1618312973034" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1618313309649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1618313309649" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/creational/singleton/singleton_test.go</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
